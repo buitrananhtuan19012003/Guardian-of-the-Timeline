@@ -3,185 +3,185 @@ guid: a3ebf609d64354b47bd06cdd94098ebc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1961963741904771077
-    second: world_bomb_carry_0
+      213: 2837247941802057891
+    second: bomb_carry_0
   - first:
-      213: 6584471564889697500
-    second: world_bomb_carry_1
+      213: -5163783275244954522
+    second: bomb_carry_1
   - first:
-      213: -4281100582415590729
-    second: world_bomb_carry_2
+      213: 8314364641100502221
+    second: bomb_carry_2
   - first:
-      213: 2047013915946214272
-    second: world_bomb_carry_3
+      213: 3881416065766838529
+    second: bomb_carry_3
   - first:
-      213: 6239389071449497935
-    second: world_bomb_carry_4
+      213: 8237291311780900124
+    second: bomb_carry_4
   - first:
-      213: -2975837784995612793
-    second: world_bomb_carry_5
+      213: -6750831013804609488
+    second: bomb_carry_5
   - first:
-      213: -7449096064906165693
-    second: world_bomb_carry_6
+      213: -1720672432891114299
+    second: bomb_carry_6
   - first:
-      213: -4286632798284566498
-    second: world_bomb_carry_7
+      213: -4736829771336481735
+    second: bomb_carry_7
   - first:
-      213: 5307688900571923689
-    second: world_bomb_carry_8
+      213: 5747610277329748102
+    second: bomb_carry_8
   - first:
-      213: 283751883891527942
-    second: world_bomb_carry_9
+      213: -8202795615762994124
+    second: bomb_carry_9
   - first:
-      213: -6270317207563310616
-    second: world_bomb_carry_10
+      213: 2602264901856014461
+    second: bomb_carry_10
   - first:
-      213: -6903422201262136739
-    second: world_bomb_carry_11
+      213: -7756044998983358955
+    second: bomb_carry_11
   - first:
-      213: 8751858698233141825
-    second: world_bomb_carry_12
+      213: -8826164694906653202
+    second: bomb_carry_12
   - first:
-      213: 1459040802729068866
-    second: world_bomb_carry_13
+      213: 6273447083893672924
+    second: bomb_carry_13
   - first:
-      213: -6409947539790794878
-    second: world_bomb_carry_14
+      213: -1675275874971344914
+    second: bomb_carry_14
   - first:
-      213: -8520140745605213645
-    second: world_bomb_carry_15
+      213: -7276686299914379311
+    second: bomb_carry_15
   - first:
-      213: -3833113589918861395
-    second: world_bomb_carry_16
+      213: -2048930005199454503
+    second: bomb_carry_16
   - first:
-      213: 6628328203588410008
-    second: world_bomb_carry_17
+      213: 1549090396521370193
+    second: bomb_carry_17
   - first:
-      213: -2745075413169087551
-    second: world_bomb_carry_18
+      213: 2098574990290000551
+    second: bomb_carry_18
   - first:
-      213: 5665107580196500348
-    second: world_bomb_carry_19
+      213: 8090301242774713334
+    second: bomb_carry_19
   - first:
-      213: 1396301606512231700
-    second: world_bomb_carry_20
+      213: 3858067993903375844
+    second: bomb_carry_20
   - first:
-      213: -303170671869160447
-    second: world_bomb_carry_21
+      213: 3932254686196009965
+    second: bomb_carry_21
   - first:
-      213: -8094740267599340690
-    second: world_bomb_carry_22
+      213: 3217347994292953808
+    second: bomb_carry_22
   - first:
-      213: 6810614186895023294
-    second: world_bomb_carry_23
+      213: -1422629015279248081
+    second: bomb_carry_23
   - first:
-      213: -58838012685795678
-    second: world_bomb_carry_24
+      213: -3958405472333471113
+    second: bomb_carry_24
   - first:
-      213: 5581347059576107634
-    second: world_bomb_carry_25
+      213: 4899933861312448138
+    second: bomb_carry_25
   - first:
-      213: -9201004447476318916
-    second: world_bomb_carry_26
+      213: -1884944641070344108
+    second: bomb_carry_26
   - first:
-      213: 6020080714922798380
-    second: world_bomb_carry_27
+      213: -4646496869904889924
+    second: bomb_carry_27
   - first:
-      213: -3220059972348140514
-    second: world_bomb_carry_28
+      213: -1238371375388681646
+    second: bomb_carry_28
   - first:
-      213: -607663628016522692
-    second: world_bomb_carry_29
+      213: 7849383231640229186
+    second: bomb_carry_29
   - first:
-      213: -3560881464901393307
-    second: world_bomb_carry_30
+      213: 9150858133286441572
+    second: bomb_carry_30
   - first:
-      213: 973779101031764390
-    second: world_bomb_carry_31
+      213: -5917952954266617794
+    second: bomb_carry_31
   - first:
-      213: -3152801367318445907
-    second: world_bomb_carry_32
+      213: -8356942119643643144
+    second: bomb_carry_32
   - first:
-      213: -5966233581790547585
-    second: world_bomb_carry_33
+      213: 6217369358134117807
+    second: bomb_carry_33
   - first:
-      213: 2739639573132974689
-    second: world_bomb_carry_34
+      213: -1192782077263580282
+    second: bomb_carry_34
   - first:
-      213: -804508182797950264
-    second: world_bomb_carry_35
+      213: -5263722859282687760
+    second: bomb_carry_35
   - first:
-      213: -6036836819021671412
-    second: world_bomb_carry_36
+      213: 8857386175257959013
+    second: bomb_carry_36
   - first:
-      213: 1440123709444818968
-    second: world_bomb_carry_37
+      213: -2259918027125460838
+    second: bomb_carry_37
   - first:
-      213: -6591860575933102029
-    second: world_bomb_carry_38
+      213: -5272604260540768587
+    second: bomb_carry_38
   - first:
-      213: 8845849449559398111
-    second: world_bomb_carry_39
+      213: 3916555645117337140
+    second: bomb_carry_39
   - first:
-      213: -3725315390085788119
-    second: world_bomb_carry_40
+      213: -2336319297086535891
+    second: bomb_carry_40
   - first:
-      213: 926255895258391469
-    second: world_bomb_carry_41
+      213: 8337478563610747139
+    second: bomb_carry_41
   - first:
-      213: -9026338269687062831
-    second: world_bomb_carry_42
+      213: -9113561645321896228
+    second: bomb_carry_42
   - first:
-      213: -6000989926558357938
-    second: world_bomb_carry_43
+      213: 2266155882944337589
+    second: bomb_carry_43
   - first:
-      213: -4733171921988555447
-    second: world_bomb_carry_44
+      213: 4894552963399212613
+    second: bomb_carry_44
   - first:
-      213: -2098417280917191606
-    second: world_bomb_carry_45
+      213: -602997321593226613
+    second: bomb_carry_45
   - first:
-      213: 2759918916914616404
-    second: world_bomb_carry_46
+      213: -5355133210025858834
+    second: bomb_carry_46
   - first:
-      213: -4350005990812017903
-    second: world_bomb_carry_47
+      213: -7786814676978144675
+    second: bomb_carry_47
   - first:
-      213: -655033278852388920
-    second: world_bomb_carry_48
+      213: 4082997720054145224
+    second: bomb_carry_48
   - first:
-      213: 3147587417948914791
-    second: world_bomb_carry_49
+      213: 3594321548232965477
+    second: bomb_carry_49
   - first:
-      213: 4684658076472823917
-    second: world_bomb_carry_50
+      213: -2903064536554436723
+    second: bomb_carry_50
   - first:
-      213: -4800637270335519281
-    second: world_bomb_carry_51
+      213: 2934130862261920784
+    second: bomb_carry_51
   - first:
-      213: -7122993838175786304
-    second: world_bomb_carry_52
+      213: 1337209532996576862
+    second: bomb_carry_52
   - first:
-      213: -1736983353551638949
-    second: world_bomb_carry_53
+      213: -3151517741489409156
+    second: bomb_carry_53
   - first:
-      213: -2341509418137693807
-    second: world_bomb_carry_54
+      213: -7832170681101788709
+    second: bomb_carry_54
   - first:
-      213: -8533227930677755328
-    second: world_bomb_carry_55
+      213: 1764492746290641
+    second: bomb_carry_55
   - first:
-      213: 6008351726675085668
-    second: world_bomb_carry_56
+      213: -8127879715312161244
+    second: bomb_carry_56
   - first:
-      213: 7768340732323941633
-    second: world_bomb_carry_57
+      213: -5552274904183291310
+    second: bomb_carry_57
   - first:
-      213: -7748071104952010133
-    second: world_bomb_carry_58
+      213: -5797193615070881384
+    second: bomb_carry_58
   - first:
-      213: -504298633034286601
-    second: world_bomb_carry_59
+      213: 8662631689425337124
+    second: bomb_carry_59
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -204,6 +204,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -226,9 +227,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 90
+  spritePixelsToUnits: 130
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -242,64 +243,88 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
+    buildTarget: iPhone
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -308,1261 +333,1261 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: world_bomb_carry_0
+      name: bomb_carry_0
       rect:
         serializedVersion: 2
-        x: 168
-        y: 2741
-        width: 105
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5081e6ad0ab4a3b10800000000000000
-      internalID: 1961963741904771077
+      spriteID: 3a0e1de78fdef5720800000000000000
+      internalID: 2837247941802057891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_1
+      name: bomb_carry_1
       rect:
         serializedVersion: 2
-        x: 619
-        y: 2745
-        width: 103
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdc29e2900eb06b50800000000000000
-      internalID: 6584471564889697500
+      spriteID: 66cdbe5587e8658b0800000000000000
+      internalID: -5163783275244954522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_2
+      name: bomb_carry_2
       rect:
         serializedVersion: 2
-        x: 1068
-        y: 2747
-        width: 104
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ba9669d3b97694c0800000000000000
-      internalID: -4281100582415590729
+      spriteID: dc41dd5f69e826370800000000000000
+      internalID: 8314364641100502221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_3
+      name: bomb_carry_3
       rect:
         serializedVersion: 2
-        x: 1517
-        y: 2747
-        width: 102
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1344
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 083614e9f44786c10800000000000000
-      internalID: 2047013915946214272
+      spriteID: 101d681e85f8dd530800000000000000
+      internalID: 3881416065766838529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_4
+      name: bomb_carry_4
       rect:
         serializedVersion: 2
-        x: 1966
-        y: 2747
-        width: 102
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f41a3338d43c69650800000000000000
-      internalID: 6239389071449497935
+      spriteID: c1dac161eccb05270800000000000000
+      internalID: 8237291311780900124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_5
+      name: bomb_carry_5
       rect:
         serializedVersion: 2
-        x: 2415
-        y: 2749
-        width: 100
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2240
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 787b62c1d43b3b6d0800000000000000
-      internalID: -2975837784995612793
+      spriteID: 0307c7bd5fa3052a0800000000000000
+      internalID: -6750831013804609488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_6
+      name: bomb_carry_6
       rect:
         serializedVersion: 2
-        x: 2862
-        y: 2749
-        width: 102
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3420281989e7f9890800000000000000
-      internalID: -7449096064906165693
+      spriteID: 5ccc7bee981fe18e0800000000000000
+      internalID: -1720672432891114299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_7
+      name: bomb_carry_7
       rect:
         serializedVersion: 2
-        x: 3310
-        y: 2749
-        width: 99
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3136
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e10b5b77e22d284c0800000000000000
-      internalID: -4286632798284566498
+      spriteID: 9348ef57b66634eb0800000000000000
+      internalID: -4736829771336481735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_8
+      name: bomb_carry_8
       rect:
         serializedVersion: 2
-        x: 3757
-        y: 2747
-        width: 101
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 2592
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e48fd80fe2b8a940800000000000000
-      internalID: 5307688900571923689
+      spriteID: 680cf97581d93cf40800000000000000
+      internalID: 5747610277329748102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_9
+      name: bomb_carry_9
       rect:
         serializedVersion: 2
-        x: 172
-        y: 2312
-        width: 99
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 601d3b3c5d610f300800000000000000
-      internalID: 283751883891527942
+      spriteID: 43ca05509d0d92e80800000000000000
+      internalID: -8202795615762994124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_10
+      name: bomb_carry_10
       rect:
         serializedVersion: 2
-        x: 621
-        y: 2314
-        width: 99
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e96b26a8bb5bf8a0800000000000000
-      internalID: -6270317207563310616
+      spriteID: d70389e042a1d1420800000000000000
+      internalID: 2602264901856014461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_11
+      name: bomb_carry_11
       rect:
         serializedVersion: 2
-        x: 1070
-        y: 2316
-        width: 98
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d52a937751e1230a0800000000000000
-      internalID: -6903422201262136739
+      spriteID: 516e6adaa2efc5490800000000000000
+      internalID: -7756044998983358955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_12
+      name: bomb_carry_12
       rect:
         serializedVersion: 2
-        x: 1517
-        y: 2318
-        width: 100
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1344
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14a5990ed19d47970800000000000000
-      internalID: 8751858698233141825
+      spriteID: ee5bef619f9238580800000000000000
+      internalID: -8826164694906653202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_13
+      name: bomb_carry_13
       rect:
         serializedVersion: 2
-        x: 1966
-        y: 2318
-        width: 98
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 249877731ed8f3410800000000000000
-      internalID: 1459040802729068866
+      spriteID: cdb41b872e2cf0750800000000000000
+      internalID: 6273447083893672924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_14
+      name: bomb_carry_14
       rect:
         serializedVersion: 2
-        x: 2413
-        y: 2318
-        width: 100
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2240
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28f61e58caa4b07a0800000000000000
-      internalID: -6409947539790794878
+      spriteID: eef1d8bb77930c8e0800000000000000
+      internalID: -1675275874971344914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_15
+      name: bomb_carry_15
       rect:
         serializedVersion: 2
-        x: 2862
-        y: 2316
-        width: 100
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3329edd222162c980800000000000000
-      internalID: -8520140745605213645
+      spriteID: 1dfd6af1d54040b90800000000000000
+      internalID: -7276686299914379311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_16
+      name: bomb_carry_16
       rect:
         serializedVersion: 2
-        x: 3308
-        y: 2316
-        width: 103
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3136
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da7f929af7b0ecac0800000000000000
-      internalID: -3833113589918861395
+      spriteID: 9de7276140db093e0800000000000000
+      internalID: -2048930005199454503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_17
+      name: bomb_carry_17
       rect:
         serializedVersion: 2
-        x: 3755
-        y: 2314
-        width: 103
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 2160
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89a179df16d8cfb50800000000000000
-      internalID: 6628328203588410008
+      spriteID: 15210a912897f7510800000000000000
+      internalID: 1549090396521370193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_18
+      name: bomb_carry_18
       rect:
         serializedVersion: 2
-        x: 170
-        y: 1879
-        width: 103
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cbd56ca47887e9d0800000000000000
-      internalID: -2745075413169087551
+      spriteID: 7aa11ceb5d2af1d10800000000000000
+      internalID: 2098574990290000551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_19
+      name: bomb_carry_19
       rect:
         serializedVersion: 2
-        x: 617
-        y: 1877
-        width: 103
-        height: 133
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c733cf344518e9e40800000000000000
-      internalID: 5665107580196500348
+      spriteID: 6f3fc75bd16864070800000000000000
+      internalID: 8090301242774713334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_20
+      name: bomb_carry_20
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 1897
-        width: 104
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4150877c9e8a06310800000000000000
-      internalID: 1396301606512231700
+      spriteID: 4e52ae7466c9a8530800000000000000
+      internalID: 3858067993903375844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_21
+      name: bomb_carry_21
       rect:
         serializedVersion: 2
-        x: 1476
-        y: 1901
-        width: 102
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1344
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1041ce451ebeacbf0800000000000000
-      internalID: -303170671869160447
+      spriteID: deb04199dcc229630800000000000000
+      internalID: 3932254686196009965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_22
+      name: bomb_carry_22
       rect:
         serializedVersion: 2
-        x: 1924
-        y: 1903
-        width: 103
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6bd0b84d94b9af80800000000000000
-      internalID: -8094740267599340690
+      spriteID: 0d2a5ae54f056ac20800000000000000
+      internalID: 3217347994292953808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_23
+      name: bomb_carry_23
       rect:
         serializedVersion: 2
-        x: 2373
-        y: 1905
-        width: 103
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2240
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebc1d10d489248e50800000000000000
-      internalID: 6810614186895023294
+      spriteID: f2ddd11b27ec14ce0800000000000000
+      internalID: -1422629015279248081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_24
+      name: bomb_carry_24
       rect:
         serializedVersion: 2
-        x: 2820
-        y: 1905
-        width: 103
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2aeb292a327fe2ff0800000000000000
-      internalID: -58838012685795678
+      spriteID: 772e998023be019c0800000000000000
+      internalID: -3958405472333471113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_25
+      name: bomb_carry_25
       rect:
         serializedVersion: 2
-        x: 3269
-        y: 1905
-        width: 101
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3136
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2727436549de47d40800000000000000
-      internalID: 5581347059576107634
+      spriteID: a86cf6ac2ef000440800000000000000
+      internalID: 4899933861312448138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_26
+      name: bomb_carry_26
       rect:
         serializedVersion: 2
-        x: 3720
-        y: 1905
-        width: 100
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 1728
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3d726b34377f4080800000000000000
-      internalID: -9201004447476318916
+      spriteID: 458d9b7f5d457d5e0800000000000000
+      internalID: -1884944641070344108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_27
+      name: bomb_carry_27
       rect:
         serializedVersion: 2
-        x: 137
-        y: 1470
-        width: 100
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2d2724b38f9b8350800000000000000
-      internalID: 6020080714922798380
+      spriteID: cb7ca5b07b3548fb0800000000000000
+      internalID: -4646496869904889924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_28
+      name: bomb_carry_28
       rect:
         serializedVersion: 2
-        x: 590
-        y: 1466
-        width: 100
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e142cb8048c0053d0800000000000000
-      internalID: -3220059972348140514
+      spriteID: 25a12f59bcb60dee0800000000000000
+      internalID: -1238371375388681646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_29
+      name: bomb_carry_29
       rect:
         serializedVersion: 2
-        x: 1046
-        y: 1456
-        width: 99
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3a662d56252197f0800000000000000
-      internalID: -607663628016522692
+      spriteID: 245d2db167c9eec60800000000000000
+      internalID: 7849383231640229186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_30
+      name: bomb_carry_30
       rect:
         serializedVersion: 2
-        x: 1493
-        y: 1462
-        width: 99
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1344
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 564a74d8c25359ec0800000000000000
-      internalID: -3560881464901393307
+      spriteID: 46258882df06efe70800000000000000
+      internalID: 9150858133286441572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_31
+      name: bomb_carry_31
       rect:
         serializedVersion: 2
-        x: 1940
-        y: 1466
-        width: 99
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a192bedeee838d00800000000000000
-      internalID: 973779101031764390
+      spriteID: e38f67b84253fdda0800000000000000
+      internalID: -5917952954266617794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_32
+      name: bomb_carry_32
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 1468
-        width: 99
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2240
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da04e955cdffe34d0800000000000000
-      internalID: -3152801367318445907
+      spriteID: 8f2042e4b6d260c80800000000000000
+      internalID: -8356942119643643144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_33
+      name: bomb_carry_33
       rect:
         serializedVersion: 2
-        x: 2834
-        y: 1468
-        width: 100
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f713e56fa2ea33da0800000000000000
-      internalID: -5966233581790547585
+      spriteID: fa58bfc7d78884650800000000000000
+      internalID: 6217369358134117807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_34
+      name: bomb_carry_34
       rect:
         serializedVersion: 2
-        x: 3283
-        y: 1468
-        width: 98
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3136
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16a91313da7250620800000000000000
-      internalID: 2739639573132974689
+      spriteID: 68370463503627fe0800000000000000
+      internalID: -1192782077263580282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_35
+      name: bomb_carry_35
       rect:
         serializedVersion: 2
-        x: 3730
-        y: 1468
-        width: 100
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 1296
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c2ee69f110d5d4f0800000000000000
-      internalID: -804508182797950264
+      spriteID: 0f81a58a2ff73f6b0800000000000000
+      internalID: -5263722859282687760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_36
+      name: bomb_carry_36
       rect:
         serializedVersion: 2
-        x: 145
-        y: 1035
-        width: 102
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c04d63bc5e8d83ca0800000000000000
-      internalID: -6036836819021671412
+      spriteID: 56ad4b64cc1cbea70800000000000000
+      internalID: 8857386175257959013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_37
+      name: bomb_carry_37
       rect:
         serializedVersion: 2
-        x: 590
-        y: 1035
-        width: 102
-        height: 133
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 818831632e85cf310800000000000000
-      internalID: 1440123709444818968
+      spriteID: a907fa3278823a0e0800000000000000
+      internalID: -2259918027125460838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_38
+      name: bomb_carry_38
       rect:
         serializedVersion: 2
-        x: 1033
-        y: 1033
-        width: 104
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3380b9a3bb10584a0800000000000000
-      internalID: -6591860575933102029
+      spriteID: 5be91494c52f3d6b0800000000000000
+      internalID: -5272604260540768587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_39
+      name: bomb_carry_39
       rect:
         serializedVersion: 2
-        x: 1474
-        y: 1033
-        width: 104
-        height: 133
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1344
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd692910535c2ca70800000000000000
-      internalID: 8845849449559398111
+      spriteID: 43e0542cb966a5630800000000000000
+      internalID: 3916555645117337140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_40
+      name: bomb_carry_40
       rect:
         serializedVersion: 2
-        x: 1960
-        y: 1021
-        width: 104
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92e04a9e3650d4cc0800000000000000
-      internalID: -3725315390085788119
+      spriteID: d2744474af9b39fd0800000000000000
+      internalID: -2336319297086535891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_41
+      name: bomb_carry_41
       rect:
         serializedVersion: 2
-        x: 2415
-        y: 1023
-        width: 104
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2240
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da3ecf744d8badc00800000000000000
-      internalID: 926255895258391469
+      spriteID: 301e37a649ca4b370800000000000000
+      internalID: 8337478563610747139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_42
+      name: bomb_carry_42
       rect:
         serializedVersion: 2
-        x: 2867
-        y: 1027
-        width: 103
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ded9c4da210cb280800000000000000
-      internalID: -9026338269687062831
+      spriteID: cdeb6f328ff168180800000000000000
+      internalID: -9113561645321896228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_43
+      name: bomb_carry_43
       rect:
         serializedVersion: 2
-        x: 3316
-        y: 1027
-        width: 103
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3136
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e46aac6d47338bca0800000000000000
-      internalID: -6000989926558357938
+      spriteID: 5b61f88d4c0037f10800000000000000
+      internalID: 2266155882944337589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_44
+      name: bomb_carry_44
       rect:
         serializedVersion: 2
-        x: 3765
-        y: 1027
-        width: 101
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 864
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94de401e635605eb0800000000000000
-      internalID: -4733171921988555447
+      spriteID: 54edebddcf1fce340800000000000000
+      internalID: 4894552963399212613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_45
+      name: bomb_carry_45
       rect:
         serializedVersion: 2
-        x: 180
-        y: 596
-        width: 102
-        height: 133
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a44c364d99ce0e2e0800000000000000
-      internalID: -2098417280917191606
+      spriteID: b8a7ced7129b1a7f0800000000000000
+      internalID: -602997321593226613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_46
+      name: bomb_carry_46
       rect:
         serializedVersion: 2
-        x: 629
-        y: 596
-        width: 100
-        height: 129
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 458939bd1a33d4620800000000000000
-      internalID: 2759918916914616404
+      spriteID: ee8e28bd7bebea5b0800000000000000
+      internalID: -5355133210025858834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_47
+      name: bomb_carry_47
       rect:
         serializedVersion: 2
-        x: 1076
-        y: 596
-        width: 100
-        height: 129
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11b14d2499ca1a3c0800000000000000
-      internalID: -4350005990812017903
+      spriteID: d5a6beebe4dafe390800000000000000
+      internalID: -7786814676978144675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_48
+      name: bomb_carry_48
       rect:
         serializedVersion: 2
-        x: 1521
-        y: 594
-        width: 98
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1344
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c7a1f114bad8e6f0800000000000000
-      internalID: -655033278852388920
+      spriteID: 8c0ae823bc8b9a830800000000000000
+      internalID: 4082997720054145224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_49
+      name: bomb_carry_49
       rect:
         serializedVersion: 2
-        x: 1964
-        y: 592
-        width: 100
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 764855a741a7eab20800000000000000
-      internalID: 3147587417948914791
+      spriteID: 56d35f2976891e130800000000000000
+      internalID: 3594321548232965477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_50
+      name: bomb_carry_50
       rect:
         serializedVersion: 2
-        x: 2409
-        y: 594
-        width: 98
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2240
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d60d35e33bf330140800000000000000
-      internalID: 4684658076472823917
+      spriteID: d8783a26f2e36b7d0800000000000000
+      internalID: -2903064536554436723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_51
+      name: bomb_carry_51
       rect:
         serializedVersion: 2
-        x: 2856
-        y: 596
-        width: 98
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc5862666d5b06db0800000000000000
-      internalID: -4800637270335519281
+      spriteID: 014e1a9397028b820800000000000000
+      internalID: 2934130862261920784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_52
+      name: bomb_carry_52
       rect:
         serializedVersion: 2
-        x: 3303
-        y: 596
-        width: 98
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3136
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ca6c3ae7da062d90800000000000000
-      internalID: -7122993838175786304
+      spriteID: e56e6844cf8be8210800000000000000
+      internalID: 1337209532996576862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_53
+      name: bomb_carry_53
       rect:
         serializedVersion: 2
-        x: 3751
-        y: 596
-        width: 99
-        height: 129
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 432
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5ea9c6c7def4e7e0800000000000000
-      internalID: -1736983353551638949
+      spriteID: c73be23cf4f8344d0800000000000000
+      internalID: -3151517741489409156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_54
+      name: bomb_carry_54
       rect:
         serializedVersion: 2
-        x: 166
-        y: 164
-        width: 101
-        height: 119
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 191dbad0799418fd0800000000000000
-      internalID: -2341509418137693807
+      spriteID: bd9d2bc134a8e4390800000000000000
+      internalID: -7832170681101788709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_55
+      name: bomb_carry_55
       rect:
         serializedVersion: 2
-        x: 613
-        y: 164
-        width: 101
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 448
+        y: 0
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 042c2847862e39980800000000000000
-      internalID: -8533227930677755328
+      spriteID: 1d5f95bfbc4460000800000000000000
+      internalID: 1764492746290641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_56
+      name: bomb_carry_56
       rect:
         serializedVersion: 2
-        x: 1062
-        y: 162
-        width: 101
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 0
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 469c212df04f16350800000000000000
-      internalID: 6008351726675085668
+      spriteID: 42e27b75678f33f80800000000000000
+      internalID: -8127879715312161244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_57
+      name: bomb_carry_57
       rect:
         serializedVersion: 2
-        x: 1509
-        y: 160
-        width: 102
-        height: 134
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1344
+        y: 0
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10dcd54dcb0becb60800000000000000
-      internalID: 7768340732323941633
+      spriteID: 252c6d0546b52f2b0800000000000000
+      internalID: -5552274904183291310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_58
+      name: bomb_carry_58
       rect:
         serializedVersion: 2
-        x: 1958
-        y: 159
-        width: 104
-        height: 129
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 0
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6afdde8162597490800000000000000
-      internalID: -7748071104952010133
+      spriteID: 89999873f1b3c8fa0800000000000000
+      internalID: -5797193615070881384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: world_bomb_carry_59
+      name: bomb_carry_59
       rect:
         serializedVersion: 2
-        x: 2409
-        y: 157
-        width: 104
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2240
+        y: 0
+        width: 448
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f9b64da01f5009f0800000000000000
-      internalID: -504298633034286601
+      spriteID: 42b3d3cff99d73870800000000000000
+      internalID: 8662631689425337124
       vertices: []
       indices: 
       edges: []
@@ -1577,6 +1602,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bomb_carry_0: 2837247941802057891
+      bomb_carry_1: -5163783275244954522
+      bomb_carry_10: 2602264901856014461
+      bomb_carry_11: -7756044998983358955
+      bomb_carry_12: -8826164694906653202
+      bomb_carry_13: 6273447083893672924
+      bomb_carry_14: -1675275874971344914
+      bomb_carry_15: -7276686299914379311
+      bomb_carry_16: -2048930005199454503
+      bomb_carry_17: 1549090396521370193
+      bomb_carry_18: 2098574990290000551
+      bomb_carry_19: 8090301242774713334
+      bomb_carry_2: 8314364641100502221
+      bomb_carry_20: 3858067993903375844
+      bomb_carry_21: 3932254686196009965
+      bomb_carry_22: 3217347994292953808
+      bomb_carry_23: -1422629015279248081
+      bomb_carry_24: -3958405472333471113
+      bomb_carry_25: 4899933861312448138
+      bomb_carry_26: -1884944641070344108
+      bomb_carry_27: -4646496869904889924
+      bomb_carry_28: -1238371375388681646
+      bomb_carry_29: 7849383231640229186
+      bomb_carry_3: 3881416065766838529
+      bomb_carry_30: 9150858133286441572
+      bomb_carry_31: -5917952954266617794
+      bomb_carry_32: -8356942119643643144
+      bomb_carry_33: 6217369358134117807
+      bomb_carry_34: -1192782077263580282
+      bomb_carry_35: -5263722859282687760
+      bomb_carry_36: 8857386175257959013
+      bomb_carry_37: -2259918027125460838
+      bomb_carry_38: -5272604260540768587
+      bomb_carry_39: 3916555645117337140
+      bomb_carry_4: 8237291311780900124
+      bomb_carry_40: -2336319297086535891
+      bomb_carry_41: 8337478563610747139
+      bomb_carry_42: -9113561645321896228
+      bomb_carry_43: 2266155882944337589
+      bomb_carry_44: 4894552963399212613
+      bomb_carry_45: -602997321593226613
+      bomb_carry_46: -5355133210025858834
+      bomb_carry_47: -7786814676978144675
+      bomb_carry_48: 4082997720054145224
+      bomb_carry_49: 3594321548232965477
+      bomb_carry_5: -6750831013804609488
+      bomb_carry_50: -2903064536554436723
+      bomb_carry_51: 2934130862261920784
+      bomb_carry_52: 1337209532996576862
+      bomb_carry_53: -3151517741489409156
+      bomb_carry_54: -7832170681101788709
+      bomb_carry_55: 1764492746290641
+      bomb_carry_56: -8127879715312161244
+      bomb_carry_57: -5552274904183291310
+      bomb_carry_58: -5797193615070881384
+      bomb_carry_59: 8662631689425337124
+      bomb_carry_6: -1720672432891114299
+      bomb_carry_7: -4736829771336481735
+      bomb_carry_8: 5747610277329748102
+      bomb_carry_9: -8202795615762994124
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

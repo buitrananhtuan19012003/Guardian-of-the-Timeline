@@ -89,5 +89,4 @@ public class UIManager : BaseManager<UIManager>
     {
         loadingPanel.gameObject.SetActive(active);
     }
-
 }

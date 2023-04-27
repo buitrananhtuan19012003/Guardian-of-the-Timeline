@@ -26,7 +26,7 @@ public class PlayerMovement : MonoBehaviour
     private float playerSpeed;
     [SerializeField]
     private float jumpHeight;
-    [Range(0,10)]
+    [Range(0, 10)]
     [SerializeField]
     private int occurAfterVelocity;
     [Range(0, 0.2f)]
@@ -67,9 +67,9 @@ public class PlayerMovement : MonoBehaviour
         }
 
         counter += Time.deltaTime;
-        if(IsGrounded() && Mathf.Abs(rigidBody.velocity.x) > occurAfterVelocity)
+        if (IsGrounded() && Mathf.Abs(rigidBody.velocity.x) > occurAfterVelocity)
         {
-            if(counter > dustFormationPeriod)
+            if (counter > dustFormationPeriod)
             {
                 moveEffect.Play();
                 counter = 0;
@@ -141,12 +141,12 @@ public class PlayerMovement : MonoBehaviour
     {
         if (dirX > 0f)
         {
-            spriteRenderer.flipX = false;
+            spriteRenderer.flipX = true;
             movementState = MovementState.Running;
         }
         else if (dirX < 0f)
         {
-            spriteRenderer.flipX = true;
+            spriteRenderer.flipX = false;
             movementState = MovementState.Running;
         }
         else
@@ -154,11 +154,11 @@ public class PlayerMovement : MonoBehaviour
             movementState = MovementState.Idle;
         }
 
-        if(rigidBody.velocity.y > 0.1f)
+        if (rigidBody.velocity.y > 0.1f)
         {
             movementState = MovementState.Jumping;
-        } 
-        else if(rigidBody.velocity.y < -0.1f)
+        }
+        else if (rigidBody.velocity.y < -0.1f)
         {
             movementState = MovementState.Falling;
         }

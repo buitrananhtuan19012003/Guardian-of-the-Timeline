@@ -15,7 +15,7 @@ TagManager:
   - UI
   - Ground
   - PostProcessing
-  - 
+  - Obstacle
   - 
   - 
   - 
@@ -43,9 +43,9 @@ TagManager:
   - name: Background
     uniqueID: 1511357329
     locked: 0
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: Terrain
     uniqueID: 1024645367
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
