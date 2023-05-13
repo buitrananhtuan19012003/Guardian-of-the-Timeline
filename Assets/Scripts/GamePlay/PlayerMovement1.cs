@@ -5,6 +5,8 @@ using UnityEngine;
 public class PlayerMovement1 : MonoBehaviour
 {
     [SerializeField]
+    private SpriteRenderer spriteRenderer;
+    [SerializeField]
     private Animator animator;
     [SerializeField]
     private Rigidbody2D rigidBody;
@@ -13,22 +15,24 @@ public class PlayerMovement1 : MonoBehaviour
     [SerializeField]
     private LayerMask jumpableGround;
     [SerializeField]
-    private ParticleSystem jumpEffect;
-    [SerializeField]
     private float playerSpeed;
-    
+    [SerializeField]
+    private int occurAfterVelocity;
+    [Range(0, 0.2f)]
     [SerializeField]
     private float dustFormationPeriod;
     private float counter;
     Vector2 dir;
-    private bool Jump;
-
+    
     private bool canDash = true;
     private bool isDashing;
     private float dashingPower = 24f;
     private float dashingTime = 0.2f;
     private float dashingCooldown = 1f;
-    
+
+    private enum MovementState { Idle, Walking, Running, Jumping }
+    private MovementState movementState;
+
     private void Awake()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -45,10 +49,11 @@ public class PlayerMovement1 : MonoBehaviour
         dir.y = Input.GetAxisRaw("Vertical");
 
         UpdateAnimations();
-        Jumping();
+        //Jumping();
 
         if (Input.GetKeyDown(KeyCode.LeftShift) && canDash)
         {
+            animator.SetBool("Run", true);
             StartCoroutine(Dash());
             if (AudioManager.HasInstance)
             {
@@ -65,8 +70,7 @@ public class PlayerMovement1 : MonoBehaviour
             return;
         }
         Moving();
-        //rigidBody.MovePosition(rigidBody.position + dir * playerSpeed * Time.fixedDeltaTime);
-
+        
     }
     private void Moving()
     {
@@ -75,30 +79,7 @@ public class PlayerMovement1 : MonoBehaviour
             rigidBody.MovePosition(rigidBody.position + dir * playerSpeed * Time.fixedDeltaTime);
         }
     }
-    private void Jumping()
-    {
-        if (IsGrounded() && !Input.GetButton("Jump"))
-        {
-            Jump = false;
-        }
-
-        if (Input.GetButtonDown("Jump"))
-        {
-            if (IsGrounded() || Jump)
-            {
-                if (AudioManager.HasInstance)
-                {
-                    AudioManager.Instance.PlaySE(AUDIO.SE_JUMP);
-                }
-                Jump = !Jump;
-                animator.SetBool("Jump", !Jump);
-                if (!Jump)
-                {
-                    jumpEffect.Play();
-                }
-            }
-        }
-    }
+    
     private void UpdateAnimations()
     {
         if (dir.x != 0)
@@ -112,6 +93,11 @@ public class PlayerMovement1 : MonoBehaviour
                 transform.localScale = new Vector3(-1, 1, 0);
             }
         }
+        //else
+        //{
+        //    movementState = MovementState.Idle;
+        //}
+        animator.SetInteger("State", (int)movementState);
         animator.SetFloat("Horizontal", dir.x);
         animator.SetFloat("Vertical", dir.y);
         animator.SetFloat("Speed", dir.sqrMagnitude);
@@ -127,10 +113,7 @@ public class PlayerMovement1 : MonoBehaviour
         float originalGravity = rigidBody.gravityScale;
         rigidBody.gravityScale = 0f;
         rigidBody.velocity = new Vector2(dir.x * dashingPower, 0f);
-        rigidBody.velocity = new Vector2(dir.y * dashingPower, 0f);
-        //trailRenderer.emitting = true;
         yield return new WaitForSeconds(dashingTime);
-        //trailRenderer.emitting = false;
         rigidBody.gravityScale = originalGravity;
         isDashing = false;
         yield return new WaitForSeconds(dashingCooldown);

@@ -9,14 +9,11 @@ public class EnemyAI : MonoBehaviour
     private float playerSpeed;
     [SerializeField]
     private float nextWPDistance;
-    [SerializeField]
-    private SpriteRenderer characterSR;
     public bool roaming = true;
 
-    public Seeker seeker;
     public bool updateContinuesPath;
     bool reachDestination = false;
-    Transform target;
+    public Seeker seeker;
     Path path;
     Coroutine moveCoroutine;
     private void Start()
@@ -54,6 +51,7 @@ public class EnemyAI : MonoBehaviour
         {
             Vector2 direction = ((Vector2)path.vectorPath[currentWP] - (Vector2)transform.position).normalized;
             Vector2 force = direction * playerSpeed * Time.deltaTime;
+            transform.position += (Vector3)force;
 
             float distance = Vector2.Distance(transform.position, path.vectorPath[currentWP]);
             if (distance < nextWPDistance)
@@ -61,18 +59,8 @@ public class EnemyAI : MonoBehaviour
                 currentWP++;
             }
             yield return null;
-            //if (force.x != 0)
-            //{
-            //    if (force.x < 0)
-            //    {
-            //        characterSR.transform.localScale = new Vecter3(-1, 1, 0);
-            //    }
-            //    else
-            //    {
-            //        characterSR.transform.localScale = new Vecter3(-1, 1, 0);
-            //    }
-            //}
         }
+        reachDestination = true;
     }
     Vector2 FindTarget()
     {
