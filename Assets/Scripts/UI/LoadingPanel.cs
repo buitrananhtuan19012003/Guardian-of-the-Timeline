@@ -19,7 +19,7 @@ public class LoadingPanel : MonoBehaviour
     {
         yield return null;
 
-        AsyncOperation asyncOperation = SceneManager.LoadSceneAsync("Level1");
+        AsyncOperation asyncOperation = SceneManager.LoadSceneAsync("Level_1");
         asyncOperation.allowSceneActivation = false;
         while (!asyncOperation.isDone)
         {

@@ -136,7 +136,32 @@ public class PlayerMovement : MonoBehaviour
             }
         }
     }
-
+    //private void Jumping()
+    //{
+    //    horizontalMove = Input.GetAxisRaw("Horizontal") * playerSpeed;
+    //    animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+    //    if (Input.GetButtonDown("Jump"))
+    //    {
+    //        Jump = true;
+    //        animator.SetBool("IsJumping", true);
+    //        if (AudioManager.HasInstance)
+    //        {
+    //            AudioManager.Instance.PlaySE(AUDIO.SE_JUMP);
+    //        }
+    //    }
+    //    if (Input.GetButtonDown("Crouch"))
+    //    {
+    //        crouch = true;
+    //    }
+    //    else if (Input.GetButtonUp("Crouch"))
+    //    {
+    //        crouch = false;
+    //    }
+    //}
+    //public void OnLanding()
+    //{
+    //    animator.SetBool("IsJumping", false);
+    //}
     private void UpdateAnimations()
     {
         if (dirX > 0f)
